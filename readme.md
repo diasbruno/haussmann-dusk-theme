@@ -3,6 +3,8 @@
 **Haussmann Dusk** is an Emacs theme inspired by the elegant rooftops and warm twilight hues of Parisian architecture from a picture published on [Davide's substack](https://substack.com/@davideor).
 It blends deep slate grays, subtle gold highlights, and soft warm neutrals to create a sophisticated, calming editing atmosphere.
 
+![Preview](https://github.com/diasbruno/haussmann-dusk-theme/blob/master/assets/image.png "Haussmann dusk theme preview.")
+
 ## Features
 
 - Dark, modern background inspired by slate rooftops and evening light.
